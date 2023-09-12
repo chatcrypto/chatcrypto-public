@@ -13,3 +13,6 @@ Indexed Data Advantage
 One of our project's unique strengths is the indexed data we have amassed. This data advantage enables us to offer unparalleled insights into blockchain transactions, addresses, and smart contracts. This resource sets us apart from competitors and empowers our AI algorithms.
 Contributing
 We welcome contributions from the community. If you'd like to contribute to ChatCrypto, please follow our contribution guidelines.
+
+## Components
+![Untitled drawio](https://github.com/chatcrypto/chatcrypto-public/assets/7430641/b2a69567-93a1-4d3a-8012-aef6375d6f75)

@@ -15,4 +15,5 @@ Contributing
 We welcome contributions from the community. If you'd like to contribute to ChatCrypto, please follow our contribution guidelines.
 
 ## Components
-![Untitled drawio](https://github.com/chatcrypto/chatcrypto-public/assets/7430641/b2a69567-93a1-4d3a-8012-aef6375d6f75)
+![Untitled drawio](https://github.com/chatcrypto/chatcrypto-public/assets/7430641/0e1a300b-9e9e-4df3-9c56-d77b7f8377c1)
+

@@ -1,0 +1,17 @@
+OPENAI_API_KEY = "xxxx"
+SOLANA_MAINNET = "xxxxx"
+SOLSCAN_API = "https://api.solscan.io"
+REDIS_URL = "redis://localhost:6379/0"
+MAX_ITEMS_RESULT = 5
+LOG_LEVEL = 20
+WEBSOCKET_PORT=9999
+HTTP_PORT = 9998
+HTTP_HOST = '0.0.0.0'
+
+GG_CLIENT_ID="abc"
+GG_CLIENT_SECRET="xyz"
+
+MONGODB_URI="mongodb://admin:123456qwer@localhost:27017/?authMechanism=SCRAM-SHA-256&authSource=admin&directConnection=true"
+CHATCRYPTO_DB_NAME="chatcrypto"
+
+JWT_SECRET="Z3YNfe19volX3iffrUwv8IVJoM9tSw76"
